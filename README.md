@@ -31,20 +31,14 @@ The `are` dataset contains **29 challenging R coding problems** designed to benc
 
 ## Usage
 
-### Python
-```python
-import pandas as pd
-
-df = pd.read_csv("are_dataset.csv", sep=";", encoding="utf-8")
-print(df.head())
-```
-
 ### Direct download
+
 ```python
 import pandas as pd
 
 url = "https://raw.githubusercontent.com/diegoamrg4123/are-dataset-csv/main/are_dataset.csv"
 df = pd.read_csv(url, sep=";", encoding="utf-8")
+df.head()
 ```
 
 ### R (original)
