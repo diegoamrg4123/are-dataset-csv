@@ -1,5 +1,3 @@
-# are-dataset-csv
-
 # ARE Dataset — An R Eval (CSV)
 
 CSV export of the [`are`](https://tidyverse.github.io/vitals/reference/are.html) dataset from the [vitals](https://github.com/tidyverse/vitals) R package, originally created by [Simon P. Couch](https://simoncouch.com) at Posit.
@@ -45,7 +43,7 @@ print(df.head())
 ```python
 import pandas as pd
 
-url = "https://raw.githubusercontent.com/YOUR_USER/are-dataset/main/are_dataset.csv"
+url = "https://raw.githubusercontent.com/diegoamrg4123/are-dataset-csv/main/are_dataset.csv"
 df = pd.read_csv(url, sep=";", encoding="utf-8")
 ```
 
