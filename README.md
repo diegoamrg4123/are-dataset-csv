@@ -1,8 +1,8 @@
-# ARE Dataset — An R Eval (CSV)
+# ARE Dataset: An R Eval (CSV)
 
 CSV export of the [`are`](https://tidyverse.github.io/vitals/reference/are.html) dataset from the [vitals](https://github.com/tidyverse/vitals) R package, originally created by [Sara Altman](https://github.com/skaltman/model-eval).
 
-The `are` dataset contains **29 challenging R coding problems** designed to benchmark LLMs on R code generation tasks. This repository makes it available in CSV format for use with Python, Julia, and other languages — without requiring R or the vitals package.
+The `are` dataset contains **29 challenging R coding problems** designed to benchmark LLMs on R code generation tasks. This repository makes it available in CSV format for use with Python, Julia, and other languages, without requiring R or the vitals package.
 
 ---
 
@@ -54,6 +54,6 @@ are
 
 ## Origin & License
 
-This dataset is derived from the [vitals](https://github.com/tidyverse/vitals) R package and is redistributed under the original **MIT License** — see [LICENSE](LICENSE).
+This dataset is derived from the [vitals](https://github.com/tidyverse/vitals) R package and is redistributed under the original **MIT License**, see [LICENSE](LICENSE).
 
 Original dataset © 2025 vitals authors.
