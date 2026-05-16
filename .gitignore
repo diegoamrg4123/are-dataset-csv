@@ -1,6 +1,9 @@
 # Claude Code
 CLAUDE.md
 
+# Notebook experimental (não versionado por enquanto)
+benchmark_are_contexto.ipynb
+
 # Benchmark results (gerado em runtime)
 results/
 
